@@ -9,7 +9,7 @@ This mod will replace your standard commander icon with Kappa commander icon.
 <img src="https://raw.githubusercontent.com/Samzlx/com.pa.samzlx.kappacommander/master/ui/main/atlas/icon_atlas/img/strategic_icons/icon_si_l_commander.png" alt="KappaL"></img>
 <img src="http://i.imgur.com/y4Hpm2n.png" alt="Kappas"></img>
 <br>
-<h5>Latest version 1.2.1: </h5>
+<h5>Latest version 1.2.X: </h5>
 <h6>Features: </h6>
 <img src="http://i.imgur.com/p4fWGs7.gif" alt="KappaP"></img>
 <br>
